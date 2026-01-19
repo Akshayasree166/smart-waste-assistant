@@ -1,0 +1,32 @@
+{
+  "wet_waste": {
+    "banana peel": {
+      "instruction": "Place in green bin or compost.",
+      "tip": "Composting reduces methane emissions."
+    },
+    "vegetable scraps": {
+      "instruction": "Place in green bin or compost.",
+      "tip": "Use kitchen composters for best results."
+    }
+  },
+  "dry_waste": {
+    "paper": {
+      "instruction": "Place in blue bin for recycling.",
+      "tip": "Avoid wet or greasy paper."
+    },
+    "plastic bottle": {
+      "instruction": "Rinse and place in blue bin.",
+      "tip": "Remove caps if required locally."
+    }
+  },
+  "hazardous_waste": {
+    "used battery": {
+      "instruction": "Place in e-waste collection bin.",
+      "tip": "Never throw batteries in regular trash."
+    },
+    "medicine": {
+      "instruction": "Return to pharmacy or hazardous waste center.",
+      "tip": "Do not flush medicines."
+    }
+  }
+}
